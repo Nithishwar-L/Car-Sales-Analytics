@@ -49,3 +49,7 @@ An Excel-based data analytics project that analyzes car sales data from 2022 to 
 
 ## Learning Outcomes
 This project provided practical experience in data validation, Pivot Table analysis, KPI creation, dashboard development, and translating data into business insights.
+
+## Dashboard Preview
+
+![Car Sales Dashboard](screenshots/car-sales-dashboard.png)
